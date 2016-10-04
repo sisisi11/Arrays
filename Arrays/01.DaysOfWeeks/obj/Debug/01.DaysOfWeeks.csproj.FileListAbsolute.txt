@@ -1,0 +1,6 @@
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\01.DaysOfWeeks\bin\Debug\01.DaysOfWeeks.exe.config
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\01.DaysOfWeeks\bin\Debug\01.DaysOfWeeks.exe
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\01.DaysOfWeeks\bin\Debug\01.DaysOfWeeks.pdb
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\01.DaysOfWeeks\obj\Debug\01.DaysOfWeeks.csprojResolveAssemblyReference.cache
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\01.DaysOfWeeks\obj\Debug\01.DaysOfWeeks.exe
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\01.DaysOfWeeks\obj\Debug\01.DaysOfWeeks.pdb

@@ -1,0 +1,6 @@
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\05.RoundingNumbers\bin\Debug\05.RoundingNumbers.exe.config
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\05.RoundingNumbers\bin\Debug\05.RoundingNumbers.exe
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\05.RoundingNumbers\bin\Debug\05.RoundingNumbers.pdb
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\05.RoundingNumbers\obj\Debug\05.RoundingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\05.RoundingNumbers\obj\Debug\05.RoundingNumbers.exe
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\05.RoundingNumbers\obj\Debug\05.RoundingNumbers.pdb

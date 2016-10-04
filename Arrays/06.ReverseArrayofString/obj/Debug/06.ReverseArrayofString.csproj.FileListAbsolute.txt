@@ -1,0 +1,6 @@
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\06.ReverseArrayofString\bin\Debug\06.ReverseArrayofString.exe.config
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\06.ReverseArrayofString\bin\Debug\06.ReverseArrayofString.exe
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\06.ReverseArrayofString\bin\Debug\06.ReverseArrayofString.pdb
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\06.ReverseArrayofString\obj\Debug\06.ReverseArrayofString.csprojResolveAssemblyReference.cache
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\06.ReverseArrayofString\obj\Debug\06.ReverseArrayofString.exe
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\06.ReverseArrayofString\obj\Debug\06.ReverseArrayofString.pdb

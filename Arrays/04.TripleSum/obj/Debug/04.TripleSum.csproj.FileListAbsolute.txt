@@ -1,0 +1,5 @@
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\04.TripleSum\bin\Debug\04.TripleSum.exe.config
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\04.TripleSum\bin\Debug\04.TripleSum.exe
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\04.TripleSum\bin\Debug\04.TripleSum.pdb
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\04.TripleSum\obj\Debug\04.TripleSum.exe
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\04.TripleSum\obj\Debug\04.TripleSum.pdb

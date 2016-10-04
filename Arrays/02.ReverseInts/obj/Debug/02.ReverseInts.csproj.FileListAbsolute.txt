@@ -1,0 +1,5 @@
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\02.ReverseInts\bin\Debug\02.ReverseInts.exe.config
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\02.ReverseInts\bin\Debug\02.ReverseInts.exe
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\02.ReverseInts\bin\Debug\02.ReverseInts.pdb
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\02.ReverseInts\obj\Debug\02.ReverseInts.exe
+C:\Users\evert\Desktop\Anton\TechModule\ProgrammingFundamentals\Arrays\Arrays\02.ReverseInts\obj\Debug\02.ReverseInts.pdb
